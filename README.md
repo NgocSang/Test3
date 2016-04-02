@@ -38,7 +38,7 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
-https://github.com/NgocSang/Test3/Demo_WebNhom.gif)
+![Video Walkthrough](https://github.com/NgocSang/Test3/Demo_WebNhom.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
