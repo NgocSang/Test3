@@ -1,4 +1,4 @@
-# BT-UDPT-1 - *Name of your app*
+﻿# BT-UDPT-1 - *Name of your app*
 
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
@@ -13,25 +13,25 @@ Yêu cầu **GIT**:
 * [ ] Có sử dụng GIT.
 * [ ] Sử dụng GIT trên 1 branch.
 * [ ] Sử dụng GIT theo Centralized Workflow.
-* [ ] Sử dụng GIT theo Feature Branch Workflow.
+* [X] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
 
 Yêu cầu **thiết kế**:
 
 * [ ] Thiết kế theo table.
 * [ ] Thiết kế với div.
-* [ ] Thiết kế nâng cao
-    * [ ] Navigation, header, footer, sidebar.
-    * [ ] Các hiệu ứng: hover, focus,...
-* [ ] Thiết kế chạy trên nhiều trình duyệt
-    * [ ] IE
-    * [ ] Firefox
-    * [ ] Chrome
-    * [ ] Icon, màu sắc,...
-* [ ] Thiết kế responsive
+* [X] Thiết kế nâng cao
+    * [X] Navigation, header, footer, sidebar.
+    * [X] Các hiệu ứng: hover, focus,...
+* [X] Thiết kế chạy trên nhiều trình duyệt
+    * [X] IE
+    * [X] Firefox
+    * [X] Chrome
+    * [X] Icon, màu sắc,...
+* [X] Thiết kế responsive
 
 Liệt kê các **yêu cầu nâng cao** đã thực hiện:
-
++ Sử dụng jquey để co dãn bàn cờ và co dãn kích thước chữ ở footer
 
 ## Demo
 
