@@ -1,8 +1,9 @@
 ﻿# BT-UDPT-1 - *Name of your app*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+Trang web nhóm 2s là một bài tập 1 tại môn UDPT.
 
-Thành viên: **Tên và mã số sinh viên thành viên**
+Thành viên: 	1312485-Nguyễn Ngọc Sáng
+		1312498-Trần Thị Sương
 
 URL: **URL hosting của bài tập**
 
